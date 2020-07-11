@@ -1,16 +1,16 @@
-### Hi there 👋
+**Hey, I'm Alexandre 👋**
 
-<!--
-**agrison/agrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+But everybody calls me **Alex**.
 
-Here are some ideas to get you started:
+I'm a Software Engineer from [Metz](https://metz.fr/)/France 🇫🇷 and working as a Tech Lead & Software Craftsman in [Luxembourg](https://luxembourg.public.lu) 🇱🇺.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time I like to code 👨🏻‍💻 in various languages including Java, Clojure/ClojureScript ❤️, Javascript, Python, Ruby, OCaml, and a few other. 
+I'm interested in both backend and frontend having practiced them extensively.
+
+From APIs to mobile, through cloud and databases, preferrably using a functional programming language.
+
+Beside coding 👨‍💻, I'm passionate about travels 🌄, photography 📷, football ⚽, badminton 🏸, music 🎶, movies 🎥 and guitars 🎸. 
+
+You can find me at [grison.me](https://grison.me) and on [Twitter](https://twitter.com/algrison)
+
+Cheers!
