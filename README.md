@@ -16,6 +16,6 @@ Beside coding 👨‍💻, I'm passionate about travels 🌄, photography 📷, 
 You can find me at [grison.me](https://grison.me) and on [Twitter](https://twitter.com/algrison)
 
 ![](https://github-readme-stats.vercel.app/api?username=agrison)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=agrison&hide=javascript,css&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=agrison&hide=javascript,css,html&layout=compact)
 
 Cheers!
